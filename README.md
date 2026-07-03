@@ -1,4 +1,3 @@
-<img width="429" height="449" alt="Screenshot 2026-06-24 at 4 15 58 PM" src="https://github.com/user-attachments/assets/ef4905e7-2a6c-4904-9e3f-d55e3f53b6bd" />
 Between Pauses AI 🧠💛
 
 A student-led neuroscience and communication awareness initiative exploring how technology, empathy, and accessible education can support people with speech differences.
