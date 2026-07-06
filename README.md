@@ -1,35 +1,40 @@
-Between Pauses AI 🧠💛
+# BetweenPausesAI
+AI-assisted accessibility support system exploring adaptive communication tools for individuals with speech dysfluency.
 
-A student-led neuroscience and communication awareness initiative exploring how technology, empathy, and accessible education can support people with speech differences.
+## Problem
+Many individuals with speech dysfluency face not only communication difficulties, but also social stigma, lack of accessibility, and pressure to communicate fluently in environments that are not designed with patience or understanding.
 
-🌸 About:-
+## Solution
+BetweenPausesAI explores how artificial intelligence and accessibility-focused design can support more comfortable and adaptive communication experiences for individuals with speech differences.
 
-Between Pauses AI began as a stuttering awareness project focused on neuroscience, communication, and neurodiversity. Over time, the initiative expanded into a conceptual AI-assisted accessibility platform aimed at making neuroscience and speech-related education easier to understand and more emotionally supportive for students.
+## Features
+- AI-assisted chatbot communication
+- Accessibility-focused interaction design
+- Early-stage speech interaction prototype
+- Exploration of adaptive communication support
+- Privacy-conscious communication approach
 
-The project combines:-
--neuroscience education
--communication awareness
--accessibility-focused design
--AI-assisted support concepts
--student advocacy
+## How It Works
+1. User interacts through speech or text  
+2. Input is processed through the AI-assisted interface  
+3. The system explores communication patterns  
+4. Adaptive interaction support is provided
 
-✨ Goals:-
--reduce stigma around stuttering
--make neuroscience approachable
--encourage communication empathy
--explore AI in healthcare accessibility
--create safe educational spaces
+## Tech Stack
+- Python
+- Basic Machine Learning Concepts
+- GitHub
+- AI-assisted chatbot frameworks
 
-🧠 Topics Covered:-
--speech & the brain
--synapses & neurons
--communication anxiety
--neurodiversity
--stuttering myths vs facts
--neuroscience explainers
+## Limitations
+This project is currently in an early-stage prototype phase and is intended as an exploratory accessibility initiative rather than a clinically validated healthcare tool.
 
-🌍 Vision:-
+## Future Goals
+- Improve accessibility-focused interface design
+- Explore multilingual support
+- Expand adaptive chatbot capabilities
+- Continue awareness and accessibility initiatives
 
-To create a space where science, empathy, and technology work together to make communication feel safer, more inclusive, and better understood.
+## Repository Status
+Early-stage prototype and active exploration project
 
-Every voice deserves space — even between pauses 💛
