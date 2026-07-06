@@ -19,6 +19,10 @@ BetweenPausesAI explores how artificial intelligence and accessibility-focused d
 2. Input is processed through the AI-assisted interface  
 3. The system explores communication patterns  
 4. Adaptive interaction support is provided
+## System Architecture
+
+![Architecture Diagram](architecture.png)
+
 
 ## Tech Stack
 - Python
