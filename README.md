@@ -46,6 +46,14 @@ This project is currently in an early-stage prototype phase and is intended as a
 - Expand adaptive chatbot capabilities
 - Continue awareness and accessibility initiatives
 
+## Social Impact
+
+This project is connected to “In Between Pauses,” a student-led stuttering awareness initiative focused on building supportive spaces for individuals with speech dysfluency and encouraging empathy-driven communication accessibility.
+
+## Disclaimer
+
+BetweenPausesAI is an early-stage conceptual accessibility exploration project and is not intended to replace professional medical diagnosis, therapy, or healthcare services.
+
 ## Repository Status
 Early-stage prototype and active exploration project
 
