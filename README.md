@@ -21,9 +21,9 @@ BetweenPausesAI explores how artificial intelligence and accessibility-focused d
 4. Adaptive interaction support is provided
 ## System Architecture
 
+<br>
+
 ![Architecture Diagram](architecture.png)
-
-
 ## Tech Stack
 - Python
 - Basic Machine Learning Concepts
