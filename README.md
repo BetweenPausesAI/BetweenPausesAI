@@ -34,11 +34,11 @@ BetweenPausesAI explores how artificial intelligence and accessibility-focused d
 
 > Conceptual UI prototype designed to prioritise accessibility, emotional comfort, and communication inclusivity.
 
-![UI Mockup](ui_mockup.png)
-
+<img src="ui_mockup.png" width="350">
 
 ## Limitations
 This project is currently in an early-stage prototype phase and is intended as an exploratory accessibility initiative rather than a clinically validated healthcare tool.
+
 
 ## Future Goals
 - Improve accessibility-focused interface design
